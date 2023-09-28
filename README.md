@@ -1,4 +1,4 @@
 # portfolio-website
 
-Basic html css js portfolio website
-Live Version hosted on firebase: https://portfolio-website-5ee97.web.app/
+HTML CSS JS Portfolio Website  
+Live version hosted on Firebase: https://portfolio-website-5ee97.web.app/
